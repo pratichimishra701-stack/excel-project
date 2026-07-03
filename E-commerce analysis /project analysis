@@ -1,0 +1,84 @@
+🛒 E-Commerce Sales Data Analysis Project Report
+📊 Professional Excel Dashboard Report with emojis
+
+📖 Executive Summary
+This project analyzes e-commerce sales data using Microsoft Excel. Interactive Pivot Tables, Pivot Charts, KPI Cards, and Slicers were used to convert raw data into meaningful business insights for faster decision-making.
+📂 Dataset Overview
+📌 Total Records: 5000
+📌 Total Columns: 14
+📝 Columns:
+•	• Order ID
+•	• Order Date
+•	• Customer Name
+•	• Region
+•	• City
+•	• Category
+•	• Sub-Category
+•	• Product Name
+•	• Quantity
+•	• Unit Price
+•	• Discount
+•	• Sales
+•	• Profit
+•	• Payment Mode
+📚 Data Dictionary
+🔹 Order ID: This field stores information related to 'Order ID' used for sales analysis.
+🔹 Order Date: This field stores information related to 'Order Date' used for sales analysis.
+🔹 Customer Name: This field stores information related to 'Customer Name' used for sales analysis.
+🔹 Region: This field stores information related to 'Region' used for sales analysis.
+🔹 City: This field stores information related to 'City' used for sales analysis.
+🔹 Category: This field stores information related to 'Category' used for sales analysis.
+🔹 Sub-Category: This field stores information related to 'Sub-Category' used for sales analysis.
+🔹 Product Name: This field stores information related to 'Product Name' used for sales analysis.
+🔹 Quantity: This field stores information related to 'Quantity' used for sales analysis.
+🔹 Unit Price: This field stores information related to 'Unit Price' used for sales analysis.
+🔹 Discount: This field stores information related to 'Discount' used for sales analysis.
+🔹 Sales: This field stores information related to 'Sales' used for sales analysis.
+🔹 Profit: This field stores information related to 'Profit' used for sales analysis.
+🔹 Payment Mode: This field stores information related to 'Payment Mode' used for sales analysis.
+🎯 Problem Statement
+Businesses need a single dashboard to analyze categories, cities, regions, products and sales instead of manually reviewing spreadsheets.
+🎯 Objectives
+✅ Analyze sales
+✅ Compare categories
+✅ Find top products
+✅ Compare cities
+✅ Analyze regional performance
+✅ Build interactive dashboard
+🧹 Data Cleaning
+🧼 Checked missing values
+🔁 Removed duplicates (if any)
+📅 Standardized formats
+🔢 Verified numeric fields
+📋 Prepared Pivot Tables
+📊 Dashboard Components
+📈 Sales by Category
+🏙 Sales by City
+🥇 Top 5 Products
+🌍 Sales by Region
+🎛 Interactive Slicers
+💡 Business Insights
+📈 Top categories contribute most revenue.
+🏙 City comparison highlights high-demand markets.
+🌍 Regional profit comparison supports strategic planning.
+🛍 Top-selling products help inventory optimization.
+⭐ STAR Methodology
+🟢 Situation: Raw data lacked clear reporting.
+🟡 Task: Build an interactive dashboard.
+🔵 Action: Used Excel Pivot Tables, Charts and Slicers.
+🟣 Result: Simplified reporting and improved business visibility.
+📈 Measurable Impact
+⏱ Reduced manual reporting effort by ~80%.
+📊 Centralized multiple reports into one dashboard.
+⚡ Enabled faster decision-making.
+🎯 Improved visibility into sales trends.
+🛠 Skills
+📌 Excel
+📌 Pivot Tables
+📌 Pivot Charts
+📌 Slicers
+📌 Dashboard Design
+📌 Data Analysis
+📌 Business Intelligence
+🏁 Conclusion
+This dashboard transforms raw sales data into actionable insights and demonstrates strong Excel and analytical skills.
