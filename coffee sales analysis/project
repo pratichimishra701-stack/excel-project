@@ -1,1 +1,48 @@
+☕ Coffee Sales Analysis Dashboard Project Report
+📊 A professional Excel dashboard project based on the Kaggle Coffee Sales dataset.
+
+📖 Executive Summary
+This project transforms raw coffee sales data into an interactive dashboard using Pivot Tables, Pivot Charts, KPI Cards, and Slicers to support data-driven business decisions.
+🎯 Problem Statement
+Businesses often struggle to extract meaningful insights from raw transactional data. This dashboard provides a single interactive view for monitoring sales performance.
+🎯 Business Objectives
+✅ Track Total Revenue
+✅ Identify Best-Selling Coffee
+✅ Analyze Sales Trends
+✅ Compare Payment Methods
+✅ Enable Interactive Filtering
+🗂 Dataset Overview
+📌 Source: Kaggle Coffee Sales Dataset
+📅 Contains coffee sales transactions with fields such as Date, Coffee Name, Price (Money), Cash Type, etc.
+💰 KPI Summary
+💵 Total Revenue: ₹115,432
+🏆 Highest Sale: ₹40
+📉 Lowest Sale: ₹18.12
+📊 Average Sale: ₹31.7469
+📈 Dashboard Charts
+📅 Sales by Year
+☕ Sales of Different Coffees
+💳 Type of Cash Used
+💵 Sales by Price
+🔍 Business Insights
+☕ Latte generated the highest revenue.
+💳 Card payments dominated cash.
+📉 Sales decreased from 2024 to 2025.
+💹 Average order value remained around ₹31.75.
+⭐ STAR Methodology
+🟢 Situation: Raw data lacked meaningful reporting.
+🟡 Task: Build an interactive dashboard.
+🔵 Action: Cleaned data, created Pivot Tables, Charts, KPI Cards and Slicers.
+🟣 Result: Faster reporting, centralized insights, and improved decision-making.
+🛠 Skills Demonstrated
+📌 Microsoft Excel
+📌 Pivot Tables
+📌 Pivot Charts
+📌 Slicers
+📌 KPI Cards
+📌 Data Cleaning
+📌 Dashboard Design
+📌 Business Analytics
+🏁 Conclusion
+This project demonstrates strong Excel and analytical skills by converting raw data into actionable insights through an attractive interactive dashboard.
 
